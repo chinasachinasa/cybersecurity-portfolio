@@ -70,7 +70,7 @@ The investigation successfully answered 17 forensic questions covering:
 - Threat assessment
 
 ## Deliverables
-- Comprehensive forensic investigation report ALI_CHINASA_DIF_TASK1.pdf
+- Comprehensive forensic investigation report /ALI_CHINASA_DIF_TASK1.pdf
 - 17 answered investigative questions with supporting evidence
 - Screenshots documenting each finding
 - Security risk assessment
