@@ -17,7 +17,7 @@ Karen, a security professional, received a job offer from TAAUSAI and was asked 
 
 ### System Analysis
 - **Administrator Username:** Karen
-- **OS Build:** [Your finding]
+- **OS Build:** 16299
 - **Hostname:** TOTALLYNOTAHACK (⚠️ Suspicious naming convention)
 - **Timezone:** UTC
 - **Chrome Version:** 72.0.3626.121
@@ -70,7 +70,7 @@ The investigation successfully answered 17 forensic questions covering:
 - Threat assessment
 
 ## Deliverables
-- Comprehensive forensic investigation report ([View Full Report](./ALI_CHINASA_DIF_TASK1.pdf))
+- Comprehensive forensic investigation report ALI_CHINASA_DIF_TASK1.pdf
 - 17 answered investigative questions with supporting evidence
 - Screenshots documenting each finding
 - Security risk assessment
